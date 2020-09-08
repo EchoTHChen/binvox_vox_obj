@@ -6,3 +6,8 @@
 4.最后利用magicaVoxel或者线上方式转成OBJ文件。
 （线上转换方式：https://drububu.com/miscellaneous/voxelizer/?out=obj）
 （magicaVoxel:http://ephtracy.github.io/, download 0.99.4或者0.99.6, 打开.vox文件, export .obj文件即可）
+
+Reference:
+binvox/viewvox
+py-vox-io:https://github.com/gromgull/py-vox-io
+magicaVoxel:http://ephtracy.github.io/, 0.99.6
