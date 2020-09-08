@@ -1,3 +1,5 @@
+修复了py-vox-io的镜像bug
+
 1.cd py-vox-io-master
 2.安装pyvox:python setup.py install
 
